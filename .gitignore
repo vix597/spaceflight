@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# The binary
+spaceflight
+
 # Object files
 *.o
 *.ko
